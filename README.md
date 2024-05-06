@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=systems+development+teacher)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=student+of+programming)
 
-Hi, sou desenvolvedora, and I always look for new technologies and tools to teach my students. I worked for many years with Linux, with back-end and team management.
+Hi, I'm a developer, and I always look for new technologies and tools to teach my students. I worked for many years with Linux, with back-end and team management.
 
 <h2><strong>MY SKILLS:</h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
