@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=estudante+de+programação)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=estudante+de+desenvolvimento+de+sistemas)
 
 Olá, me chamo Giovana, e sou estudante do curso técnico: Análise e Desenvolvimento de Sistemas pelo SENAI. 
 
