@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focada+em+Front-end+e+Back-end;Sempre+aprendendo+algo+novo)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=+de+Desenvolvedora+de+Sistemas;Focada+em+Front-end+e+Back-end;)
 
 ## 👋 Olá! Eu sou a Giovana Parolezi
 
