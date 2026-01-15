@@ -1,22 +1,53 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=estudante+de+desenvolvimento+de+sistemas)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas;Focada+em+Front-end+e+Back-end;Sempre+aprendendo+algo+novo)
 
-Olá, me chamo Giovana, e sou estudante do curso técnico: Análise e Desenvolvimento de Sistemas pelo SENAI. 
+## 👋 Olá! Eu sou a Giovana Parolezi
 
-<h2><strong>MY SKILLS:</strong></h2>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-<h2><strong>LEARNING:</strong></h2>
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<h2><strong>SOCIAL:</strong></h2>
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** pelo **SENAI**  
+💡 Interessada em desenvolvimento web, interfaces modernas e soluções funcionais  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Stack Principal
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" />
+</div>
+
+---
+
+### 🎨 Estilização & UI
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</div>
+
+---
+
+### 🗄️ Banco de Dados
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
+</div>
+
+---
+
+### 📚 Atualmente Aprendendo
+- PHP aplicado ao back-end  
+- Integração com banco de dados (MySQL)  
+- Boas práticas de front-end com Tailwind CSS  
+- Lógica de programação e estrutura de sistemas  
+
+---
+
+## 🌐 Conecte-se comigo
 <div>
-  <a href="https://www.instagram.com/giovanaparolezi/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/giovanaparolezi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br>
+
+---
+
+✨ *Aberta a aprender, criar e evoluir no mundo da tecnologia.*
